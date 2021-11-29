@@ -6,6 +6,11 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="backgroundColorDefault">@color/colorPrimary</item>
+        <item name="backgroundColorLoad">@color/colorPrimaryDark</item>
+        <item name="backgroundTextColor">@color/white</item>
+        <item name="backgroundCircleColor">@color/colorAccent</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
